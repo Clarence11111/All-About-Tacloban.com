@@ -1,0 +1,27 @@
+
+/* font-family:Abel */
+@font-face{
+ font-family: Abel;
+ src: url('../fonts/Abel-Regular.ttf');
+}
+
+/* font-family:Lato */
+@font-face{
+    font-family: Lato;
+    src: url('../fonts/Lato/Lato-Black.ttf');
+   }
+/* font-family:M_PLUS_1 */
+@font-face{
+    font-family: LatM_PLUS_1;
+    src: url('../fonts/M_PLUS_1/MPLUS1-VariableFont_wght.ttf');
+   }
+/* font-family:Montagu */
+@font-face{
+    font-family: Montagu;
+    src: url('../fonts/Montagu_Slab/MontaguSlab-VariableFont_opsz\,wght.ttf');
+   }
+/* font-family:Shippori_Antique */
+@font-face{
+    font-family: Shippori_Antique;
+    src: url('../fonts/Shippori_Antique/ShipporiAntique-Regular.ttf');
+   }
